@@ -1,4 +1,4 @@
-#maven-groovy-test
+# maven-groovy-test
 
 Este es un ejemplo de cómo configurar con maven un artefacto groovy con Junit5.
 
